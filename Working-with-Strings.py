@@ -76,3 +76,5 @@ print(text.index("b"))      # Returns the index position of 'b'
 print(text.isalnum())       # Returns True if all the characters in the string are alphanumeric / False
 print(text.title())         # Converts the first characters of each words to Captial form 
 print(text.swapcase())      # Converts upper to lowercase and lower to uppercase
+
+#-----------------------------------------------------------------------------------------------------
